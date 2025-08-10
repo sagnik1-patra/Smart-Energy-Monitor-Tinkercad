@@ -17,7 +17,8 @@ Instead of real voltage/current sensors, potentiometers are used to emulate read
 - Breadboard, jumper wires
 
 ## Circuit Diagram
-(Include your Tinkercad screenshot here)
+![Output Screenshot](Arduino.png)
+
 
 ## How to Run
 1. Open Tinkercad and create a new circuit.
@@ -31,3 +32,4 @@ Instead of real voltage/current sensors, potentiometers are used to emulate read
 - Implement relay-based device control.
 
 ---
+
